@@ -1,0 +1,18 @@
+.shop-btn {
+	margin-top: 1em;
+	background-color: #e9fae3;
+	color: #513d4d;
+	font-weight: 600;
+	border: #513d4d 1px solid;
+	font-size: 1.2em;
+}
+
+.heading {
+	font-size: 3.5em;
+	color: #513d4d;
+	/* margin-bottom: 0.8em; */
+}
+
+.product-row {
+	margin-bottom: 0.8em;
+}
